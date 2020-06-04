@@ -1,0 +1,33 @@
+Machine Learning library:
+
+NumPy
+SciPy
+Pandas
+MatPlotLib
+Seaborn
+Bokeh
+Plotly
+
+Machine Learning Algorithm is given below.
+
+Linear Regression
+Logistic Regression
+K-Mean Clustering
+Naive Bayes
+Decision Tree
+Random Forest
+Hierarchical Clustering
+K-Nearest Neighbour
+Support Vector
+Apriori
+
+Machine learning Framework:
+
+TensorFlow
+Theano
+Spark MTlib
+Torch
+Keras
+ScitLearn
+caffe
+PyTorch
